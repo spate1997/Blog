@@ -5,9 +5,10 @@ This Ruby Blog System is a simple command-line application designed to introduce
 Getting Started
 Prerequisites
 Ruby (Version 2.7 or later recommended) installed on your system. You can check your Ruby version using ruby -v.
+
 Installation
 Clone this repository or download the source code to your local machine. If you're using Git, you can clone the repository with the following command:
-git clone <repository-url>
+git clone <https://github.com/spate1997/Blog>
 Navigate to the directory where you've cloned or downloaded the code.
 
 Running the Application
